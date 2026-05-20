@@ -2,6 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /_next/
 Disallow: /api/
-Disallow: /tier2/
 
 Sitemap: https://peatbid.com/sitemap.xml
